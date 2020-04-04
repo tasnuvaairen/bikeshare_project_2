@@ -1,0 +1,15 @@
+{
+  "name": "chartist-plugin-axistitle",
+  "homepage": "https://github.com/alexstanbury/chartist-plugin-axistitle",
+  "version": "0.0.7",
+  "_release": "0.0.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.7",
+    "commit": "3be67e21b4f63ebdc7f12e4758313304dd4db6c0"
+  },
+  "_source": "https://github.com/alexstanbury/chartist-plugin-axistitle.git",
+  "_target": "^0.0.7",
+  "_originalSource": "chartist-plugin-axistitle",
+  "_direct": true
+}
